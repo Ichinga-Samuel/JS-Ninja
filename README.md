@@ -42,7 +42,7 @@ It covers core javascript concepts from ES5, ES6, and the current standard.
 
 **Sevice Workers**, **Worker Objects**, 
 
-**Local Storage, Session Storage, Web Sockets
+**Local Storage, Session Storage, Web Sockets, IndexDb**
 
 ## NODE
 - Path
