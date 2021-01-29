@@ -9,7 +9,12 @@ It covers core javascript concepts from ES5, ES6, and the current standard.
 
 ### Topics coverd includes but not limited to the following
 
-**Basics programing concepts** expressed in JS such as *variable declaration* (var, let, const) *iteration* (for and while loops), *operators* (tenary, logic, assignment, comparison), switch, number types, keywords, scopes, string, string literals, Math library, Destructuring, booleans
+#### Basics Programing Concepts Expressed in JS
+- **Variable Declaration:** (var, let, const) 
+- **Iteration:** for and while loops 
+- **Operators:** tenary, logic, assignment, comparison,  
+- **Number types**, 
+- **switch, keywords, scopes, string, string literals, Math library, Destructuring, booleans
 
 **Data Structures:** Objects, Arrays, Maps Typed arrays and their relevant  methods, method chaining
 
@@ -23,7 +28,7 @@ It covers core javascript concepts from ES5, ES6, and the current standard.
 
 **Date and Time.**
 
-**Internationalizaton: DateTime Format, Number Format, Collator, List**
+**Internationalizaton API: DateTime Format, Number Format, Collator, List**
 
 **APIs:** Console api, URL api, fetch etc
 
@@ -37,7 +42,7 @@ It covers core javascript concepts from ES5, ES6, and the current standard.
 
 **Sevice Workers**, **Worker Objects**, 
 
-Local Storage, Session Storage, Web Sockets
+**Local Storage, Session Storage, Web Sockets
 
 ## NODE
 - Path
