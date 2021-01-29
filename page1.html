@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>time</title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+    <h1>Count Down </h1>
+    <p> the show begins in <span id="clock"></span></p>
+    <script>
+        function showTime(){
+            let clock = document.querySelector('#clock');
+            let now = new Date();
+            clock.textContent = now.toLocaleTimeString()
+        }
+        showTime();
+        setInterval(showTime, 1000);
+    </script>
+</body>
+</html>
