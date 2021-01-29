@@ -14,13 +14,13 @@ It covers core javascript concepts from ES5, ES6, and the current standard.
 - **Iteration:** for and while loops 
 - **Operators:** tenary, logic, assignment, comparison,  
 - **Number types**, 
-- **switch, keywords, scopes, string, string literals, Math library, Destructuring, booleans
+- **switch, keywords, scopes, string, string literals, Math library, Destructuring, booleans**
 
 **Data Structures:** Objects, Arrays, Maps Typed arrays and their relevant  methods, method chaining
 
 **Functions:** Named functions, function expressions, closures, arrow functions, scoping in fuctions, use of "this" in different types of functions.call(), apply(), bind()
 
-**Classes:** Both old style and new style
+**Classes:** Both old styles and new style
 
 **Modules:** using both import and require
 
